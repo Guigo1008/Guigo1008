@@ -13,7 +13,7 @@ Whether it's solving complex problems in my field or crushing my high score in m
 - Python for Data Science (Alura);
 - Python Pandas: Treating and analysis data (Alura);
 - Data Visualization with seaborn (Alura);
-- Aplied Clustering: Music recomendation with K-Means (Alura);
+- Applied Clustering: Music recomendation with K-Means (Alura);
 - Machine Learning: Classification with Sklearn (Alura);
 - Machine Learning: Classification behind the scenes (Alura);
 - Machine Learning: Dealing with higher dimensions (Alura);
