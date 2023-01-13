@@ -1,11 +1,11 @@
-### Hello there! 🖖
+## Hello there! 🖖
 
 👉 Guilherme Xavier - Data Analysis, Machine Learning, Chemical Engineer Student
 
 I'm the type of person who doesn't shy away from a challenge.
 My determination and focus are second to none, and I'm always looking for ways to push myself further. 
 Whether it's solving complex problems in my field or crushing my high score in my favorite video game, 
-  #I give it my all.#
+#### I give it my all.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 👉 Courses Completed:
