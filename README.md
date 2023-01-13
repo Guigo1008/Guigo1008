@@ -21,7 +21,7 @@ Whether it's solving complex problems in my field or crushing my high score in m
 - 83 Badges of module completions on CodeAcademy;
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-👉 Books Readed:
+👉 Books Read:
 - Introdução à programação com Python - Nilo Ney Coutinho Menezes;
 - Think Python - Allen B. Downey;
 - Data Science from Scratch - Joel Grus;
