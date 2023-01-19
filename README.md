@@ -1,8 +1,8 @@
 ## Hello there! 🖖
 
-👉 Guilherme Xavier - Data Analysis, Machine Learning, Chemical Engineer Student
+👉 Guilherme Xavier - Data Analysis, Machine Learning, Chemical Engineering Student
 
-Whether is in my professional field or in my personal one, I always face challenges striving my best of the effort in all that I do. I really believe that my determination and focus are key for me achieving the success.
+Whether in my professional field or in my personal life, I strive my best to face the challenges and to overcome any hundle. I really believe that my determination and focus are key for achieving success.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 👉 Courses Completed:
