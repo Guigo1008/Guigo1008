@@ -15,7 +15,8 @@ Whether in my professional field or in my personal life, I strive my best to fac
 - Machine Learning: Classification behind the scenes (Alura);
 - Machine Learning: Dealing with higher dimensions (Alura);
 - Deep Learning with Keras part 1 (Alura);
-- 83 Badges of module completions on CodeAcademy;
+- Foundations: Data, Data, Everywhere (Google Data Analytics)
+- 90 Badges of module completions on CodeAcademy;
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 👉 Books Read:
